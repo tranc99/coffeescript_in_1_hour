@@ -1,2 +1,2 @@
-Raven = ->
-Raven::quoth = -> console.log 'Nevermore'
+raven1 = ->
+  console.log "I am a raven"
